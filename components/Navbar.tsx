@@ -50,7 +50,7 @@ const Navbar: React.FC<NavbarProps> = ({ isWaitlistOpen, setIsWaitlistOpen, isVi
   };
 
   // Replace this ID with your actual Google Drive video ID
-  const videoUrl = getDriveEmbedUrl("https://drive.google.com/file/d/1_T0I-0zB-L0G-K_p-r-r-r-r-r-r-r/view");
+  const videoUrl = getDriveEmbedUrl("https://drive.google.com/file/d/1yOs6EgcJhO2tQs13hmpP2hE1O3YHtWHy/view");
 
   return (
     <>
