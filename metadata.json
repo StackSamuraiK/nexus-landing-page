@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Builder",
+  "description": "A next-generation AI mobile app builder that transforms natural language into full-stack functional applications within a browser-based VS Code environment.",
+  "requestFramePermissions": []
+}
