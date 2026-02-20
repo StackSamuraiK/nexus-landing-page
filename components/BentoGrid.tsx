@@ -91,7 +91,7 @@ const BentoGrid: React.FC<BentoGridProps> = ({ onOpenWaitlist }) => {
                     </div>
                 ))}
                 <div className="w-12 h-12 rounded-full border-4 border-nexus-900 bg-nexus-600 flex items-center justify-center text-xs font-bold text-white shadow-lg">
-                    +2k
+                    50+
                 </div>
             </div>
             <p className="text-sm font-medium text-gray-500 text-right uppercase tracking-widest">Devs joined waitlist</p>

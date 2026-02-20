@@ -65,7 +65,7 @@ const Hero: React.FC<HeroProps> = ({ onOpenWaitlist }) => {
 
             <div className="flex items-center gap-8 border-t border-white/5 pt-8">
               <div className="flex flex-col">
-                <span className="text-3xl font-bold text-white tracking-tight">10k+</span>
+                <span className="text-3xl font-bold text-white tracking-tight">50+</span>
                 <span className="text-[10px] font-bold text-nexus-200 uppercase tracking-[0.2em] mt-1">Devs on Waitlist</span>
               </div>
               <div className="w-px h-10 bg-white/10"></div>
